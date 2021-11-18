@@ -1,6 +1,6 @@
 {
   "name": "@mirabo-tech/core",
-  "version": "0.14.24",
+  "version": "0.14.25",
   "description": "Multiplayer Framework for Node.js.",
   "input": "./src/index.ts",
   "main": "./build/index.js",
@@ -44,5 +44,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "320a0325f01eff3cd7afa8fb2efa80077ebdbf4a"
+  "gitHead": "73c67791e930839d8ad09b43c8b0ce161549afb2"
 }
