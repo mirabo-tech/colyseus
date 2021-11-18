@@ -1,7 +1,7 @@
 {
-  "name": "@mirabo-tech/core",
+  "name": "@mirabo-tech/colyseus_core",
   "version": "0.14.26",
-  "description": "Multiplayer Framework for Node.js.",
+  "description": "Fork of Multiplayer Framework for Node.js.",
   "input": "./src/index.ts",
   "main": "./build/index.js",
   "module": "./build/index.mjs",

@@ -252,7 +252,7 @@ export async function createRoom(roomName: string, clientOptions: ClientOptions)
   }
 }
 
-async function handleCreateRoom(roomName: string, clientOptions: ClientOptions): Promise<RoomListingData> {
+export async function handleCreateRoom(roomName: string, clientOptions: ClientOptions): Promise<RoomListingData> {
   const registeredHandler = handlers[roomName];
 
   if (!registeredHandler) {
