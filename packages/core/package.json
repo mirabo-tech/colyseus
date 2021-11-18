@@ -1,5 +1,5 @@
 {
-  "name": "@colyseus/core",
+  "name": "@mirabo-tech/core",
   "version": "0.14.24",
   "description": "Multiplayer Framework for Node.js.",
   "input": "./src/index.ts",
