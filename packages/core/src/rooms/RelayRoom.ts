@@ -1,4 +1,4 @@
-import { Context, defineTypes, MapSchema, Schema } from '@colyseus/schema';
+import { Context, defineTypes, MapSchema, Schema } from '@mirabo-colyseus/schema';
 
 import { Room } from '../Room';
 import { Client } from '../Transport';

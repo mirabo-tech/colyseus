@@ -1,5 +1,5 @@
 /*
- * this is only used for @colyseus/testing
+ * this is only used for @mirabo-colyseus/testing
  */
 
 export default {

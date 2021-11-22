@@ -25,7 +25,7 @@ export type ServerOptions = {
   gracefullyShutdown?: boolean,
 
   /**
-   * Options below are now part of WebSocketTransport (@colyseus/ws-transport)
+   * Options below are now part of WebSocketTransport (@mirabo-colyseus/ws-transport)
    * TODO: remove me on 0.15.0
    */
   /** @deprecated */

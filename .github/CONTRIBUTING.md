@@ -10,7 +10,7 @@ Observations:
 
 - The Colyseus project has multiple packages. They are all under `packages/` folder.
 - We use [Lerna](https://github.com/lerna/lerna) for managing the multiple packages.
-- Packages that have a `"build"` script are not going to be built with `rollup` (e.g. @colyseus/monitor)
+- Packages that have a `"build"` script are not going to be built with `rollup` (e.g. @mirabo-colyseus/monitor)
 
 ---
 

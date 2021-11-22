@@ -2,7 +2,7 @@ import * as http from 'http';
 import * as https from 'https';
 import * as net from 'net';
 
-import { Schema } from '@colyseus/schema';
+import { Schema } from '@mirabo-colyseus/schema';
 import { EventEmitter } from 'events';
 
 export abstract class Transport {

@@ -1,5 +1,5 @@
 {
-  "name": "@colyseus/monorepo",
+  "name": "@mirabo-colyseus/monorepo",
   "private": true,
   "type": "module",
   "workspaces": [
@@ -15,7 +15,7 @@
     "clean": "lerna clean",
     "boot": "lerna bootstrap",
     "test": "lerna run test --stream",
-    "example": "lerna run start --scope @colyseus/example --stream",
+    "example": "lerna run start --scope @mirabo-colyseus/example --stream",
     "update-contributors": "all-contributors generate",
     "graph": "lerna list --graph",
     "watch": "rollup -c --watch",

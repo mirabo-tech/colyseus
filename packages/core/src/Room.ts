@@ -1,7 +1,7 @@
 import http from 'http';
 import msgpack from 'notepack.io';
 
-import { decode, Iterator, Schema } from '@colyseus/schema';
+import { decode, Iterator, Schema } from '@mirabo-colyseus/schema';
 
 import Clock from '@gamestdio/timer';
 import { EventEmitter } from 'events';
