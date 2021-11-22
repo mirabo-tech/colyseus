@@ -1,13 +1,13 @@
 {
   "private": true,
   "name": "@mirabo-colyseus/tcp-transport",
-  "version": "0.14.22",
+  "version": "0.14.23",
   "input": "./src/index.ts",
   "main": "./build/index.js",
   "module": "./build/index.mjs",
   "typings": "./build/index.d.ts",
   "dependencies": {
-    "@mirabo-colyseus/core": "^0.14.29"
+    "@mirabo-colyseus/core": "^0.14.30"
   },
   "author": "Endel Dreyer",
   "license": "MIT",
